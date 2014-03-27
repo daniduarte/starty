@@ -1,0 +1,20 @@
+{
+  "name": "starty",
+  "version": "0.1.0",
+  "authors": [
+    "Daniel Duarte <elduarte@gmail.com>"
+  ],
+  "description": "a simple tiny framework for statics pages based in grunt",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "holderjs": "~2.3.2",
+    "jquery": "~2.1.0"
+  }
+}
